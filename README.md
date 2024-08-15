@@ -17,7 +17,7 @@ Data Source -> Evaluation Metric Setting -> Golden References -> Baseline Model 
 
 #### 데이터 선정
 * 최근 3개월 모텔 데이터
-* 최근 6개월 호텔/펜션/게하 데이
+* 최근 6개월 호텔/펜션/게하 데이터
 * 후기는 3개 이상 / 글자수 90자 이상
 * 후기가 많을시(50개) 최근 작성 기준 (비용고려)
 
