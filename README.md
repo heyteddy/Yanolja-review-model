@@ -12,6 +12,9 @@
 
 Data Source -> Evaluation Metric Setting -> Golden References -> Baseline Model -> Experiments -> Demo
 
+#### 프로젝트 목표
+* AI 서비스 과정 end-to-end
+
 #### 데이터 선정
 * 최근 3개월 모텔 데이터
 * 최근 6개월 호텔/펜션/게하 데이
@@ -22,6 +25,6 @@ Data Source -> Evaluation Metric Setting -> Golden References -> Baseline Model 
 과정을 통해 배운 점
 * 모델 고도화 작업
 * 오프라인 실습 환경 구성(Homebrew, Python, VSCode)
-
-
+* 크롤링을 통한 데이터 확보
+* 제작한 모델을 데모(gradio)
 ```
