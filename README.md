@@ -27,4 +27,5 @@ Data Source -> Evaluation Metric Setting -> Golden References -> Baseline Model 
 * 오프라인 실습 환경 구성(Homebrew, Python, VSCode)
 * 크롤링을 통한 데이터 확보
 * 제작한 모델을 데모(gradio)
+* 프롬프트도 중요하지만, 입력에 들어간 데이터의 품질이 더 중요
 ```
